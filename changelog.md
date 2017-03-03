@@ -1,3 +1,6 @@
+# 3.30.3
+- [ADDED] `afterConnectionQuery` option that will run after each new connection is made
+
 # 3.30.2
 - [FIXED] `previous` method gave wrong value back [#7189](https://github.com/sequelize/sequelize/pull/7189)
 - [FIXED] Fixes setAssociation with scope [#7223](https://github.com/sequelize/sequelize/pull/7223)
